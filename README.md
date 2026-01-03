@@ -1,1 +1,1 @@
-# polarislinux.github.io
+# Polaris Linux official web-site on GitHub Pages.
